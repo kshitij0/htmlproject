@@ -1,0 +1,23 @@
+html,body{
+    background-image:linear-gradient(to right,#803079,#b8c916);
+}
+
+.a {
+    display:flex;
+    justify-content: space-between;
+    margin:50px
+
+}
+.b{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+.c{
+    position: absolute;
+    top:400px;
+    left:50px
+}
+.d{
+    left:200px
+}
